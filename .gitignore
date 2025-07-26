@@ -1,0 +1,16 @@
+# Ignore virtual environment
+backend/venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore database and CSVs
+*.db
+*.csv
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+backend/database.db
+backend/inventory_items.csv
